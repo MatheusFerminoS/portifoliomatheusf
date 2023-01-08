@@ -44,7 +44,7 @@
 .site-wrap {
   min-height: 100%;
   min-width: 100%;
-  background-color: rgb(88, 128, 136);
+  background-color: rgb(255, 255, 255);
   position: relative;
   top: 0;
   bottom: 100%;
@@ -120,7 +120,7 @@ code {
 
 .containr {
   max-height: 160vh;
-  box-shadow: 10px 14px 14px #ffffff;
+  box-shadow: 10px 14px 14px #00fbff38;
   border-radius: 3vh;
   background-color: rgb(184, 184, 184);
   text-align: center;
@@ -130,7 +130,7 @@ code {
 }
 
 .titulo {
-  color: #00fbff;
+  color: #00927e;
   font-size: 6vh;
   font-family: "Poppins", sans-serif;
 }
@@ -154,11 +154,11 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: darkgrey;
+  background-color: #00927e;
 }
 
 #lk {
-  color: #00fbff;
+  color: #00927e;
   font-family: "Poppins", sans-serif;
   text-decoration: none;
 }
